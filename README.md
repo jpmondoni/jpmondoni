@@ -12,4 +12,5 @@ I am a Software Architect and Technical Leader at IBM since 2019. I have a bache
 
 
 ![João's github stats](https://github-readme-stats.vercel.app/api?username=jpmondoni&show_icons=true&count_private=true)
+
 ![João's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmondoni&langs_count=20)
