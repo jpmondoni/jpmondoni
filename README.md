@@ -1,6 +1,5 @@
 # João Paulo Mondoni
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jpmondoni/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jpmond0ni/)
 
 ## Hi, there! 👋
 
