@@ -4,7 +4,7 @@
 ## Hi, there! 👋
 
 My name is João, also known as `John`, `JP` or `Mondoni` (depending whom you ask).
-I am a Software Architect @ IBM since 2019 and I have been working with development since 2012, in different industries and languages. I have a bachelor degree in Computer Science and an specialization course in Solutions Architecture, amonsgt many many learning subjects along the years.
+I am a Software Architect @ IBM since 2019 and I have been working with development since 2012, in different industries and languages. I have a bachelor degree in Computer Science and an specialization course in Solutions Architecture, amongst many many learning subjects along the years.
 
 - 👨🏻‍💻 I have Python as my favorite/main language but I have worked professionally with JS frameworks such as Angular, React, NodeJS; Java as another programming language and some underground stuff like LabVIEW.
 - 🤩 I have interest in many different programming paradigms and architectures. As an architect, I thrive to create the simplest solution to the most complex problems.
